@@ -30,7 +30,7 @@ for i in range(1,10000):
         res = requests.get(setu_url).content
     else:
         pass
-    with open(setu_path+str(setu_pid)+".jpg","wb") as f:
+    with open('./SETUP_FOLDER'/+str(setu_pid)+".jpg","wb") as f:
         f.write(res)
     print('Downloads Success!')
     time.sleep(1)
