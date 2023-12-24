@@ -2,9 +2,8 @@
 	<b>
 		Setu_API
 	</b>
-
-	基于lolicon.app的api的一个Python爬虫程序
-<div>
+基于lolicon.app的api的一个Python爬虫程序
+</div>
 第一次寫代码，写的不好，请见谅(≡ω≡)
 
 参考了csdn的woodwhale大佬，文章地址：https://blog.csdn.net/woodwhale/article/details/117735740
