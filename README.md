@@ -1,4 +1,4 @@
-# <center>Setu_API_Catcher</center>
+# <center> Setu_API_Catcher</center>
 基于lolicon.app的一个Python爬虫程序
 
 第一串代码，写的不好，请勿见谅(≡ω≡)
