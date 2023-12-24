@@ -6,7 +6,7 @@ print('Thanks for these projects support')
 with open('./output.txt',"a") as fo:
     fo.write('执行时间为:'+time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))+'\n')
 for i in range(1,1000):
-    url = 'https://api.lolicon.app/setu/?r18=2'
+    url = 'https://api.lolicon.app/setu/'
     res = requests.get(url)
     data = res.json()
     data = data['data'][0]
