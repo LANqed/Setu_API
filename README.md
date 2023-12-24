@@ -19,6 +19,14 @@ Gitee：https://gitee.com/LANqed/Setu_API_Catcher/tree/main
 
 Python文件需要requests库支持，若无可用`pip install requests`安装
 
-有一些人Github下载服务用不了，这里贴出备用下载链接：
+##目標
 
-蓝奏云:https://wwrj.lanzoue.com/i08YD153idgh
+*完成錯誤文件(Size:58B)重下
+
+*GUI支持
+
+##更新
+
+23/12/24 更新日誌輸出
+
+
