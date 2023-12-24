@@ -1,6 +1,6 @@
 <div align="center">
 	<p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="https://github.com/longhorn233/Setu_API">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 	<b>
