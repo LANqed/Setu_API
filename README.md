@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/longhorn233/Setu_API">
-    <img src="./icon.jpg" alt="Logo" width="90" height="90">
+    <img src="./icon.jpg" alt="Logo" width="100" height="100">
   </a>
   <br/>
 <b>
