@@ -1,7 +1,6 @@
 <div align="center">
 	# Setu_API
-
-
+</div>
 基于lolicon.app的api的一个Python爬虫程序
 
 第一次寫代码，写的不好，请见谅(≡ω≡)
