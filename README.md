@@ -35,7 +35,7 @@ Python文件需要requests库支持，若无可用`pip install requests`安装
 
 ## Bugs
 
-*寫Log時編碼錯誤
+* 寫Log時編碼錯誤
 
 ## 更新
 
