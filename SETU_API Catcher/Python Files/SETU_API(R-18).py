@@ -34,7 +34,18 @@ for i in range(1,1000):
         pass
     with open('./SETUP_FOLDER/'+str(setu_pid)+".jpg","wb") as f:
         f.write(res)
-        print('Downloads Success!')
+        print('Downloads Success!,Checking...')
+        file_path = './SETUP_FOLDER/'+str(setu_pid)+".jpg"
+        file_size = os.path.getsize(file_path)
+        if file_size == 58:
+            print("Check Fail! Retry Download...")
+            os.remove('./SETUP_FOLDER/'+str(setu_pid)+".jpg")
+            res = requests.get(setu_url).content
+            with open('./SETUP_FOLDER/'+str(setu_pid)+".jpg","wb") as f:
+                f.write(res)
+                print("Check Complete!")
+        else:
+            print("Check Complete!")
         print('Writing LOG...')
     with open('./output.txt',"a") as fo:
         fo.write('Pic:' + str(i) + '\n')
