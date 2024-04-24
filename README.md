@@ -44,6 +44,8 @@ Gitee：https://gitee.com/LANqed/Setu_API_Catcher
 
 ## 更新
 
-23/12/24 更新日誌輸出
+2023/12/24 更新日誌輸出
+
+2024/4/24 更新EXE
 
 
