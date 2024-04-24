@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/longhorn233/Setu_API">
-    <img src=".\icon.jpg" alt="Logo" width="150" height="150">
+    <img src="/icon.jpg" alt="Logo" width="150" height="150">
   </a>
   <br/>
 <b>
 	Setu_API
 </b>
 
-基于lolicon.app的api的一个Python爬虫程序
+基于Lolicon.app API的一个Python爬虫程序
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 温馨提醒
 
-Github：本地址
+Github：https://github.com/LANqed/Setu_API
 
 Gitee：https://gitee.com/LANqed/Setu_API_Catcher
 
