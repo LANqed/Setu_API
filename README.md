@@ -34,7 +34,7 @@ Gitee：https://gitee.com/LANqed/Setu_API_Catcher
 
 ## 目標
 
-* 完成錯誤文件(Size:58B)重下
+* 完成錯誤文件(Size:58B)重下(已完成)
 
 * GUI支持
 
