@@ -21,11 +21,13 @@
 
 Github：本地址
 
-Gitee：https://gitee.com/LANqed/Setu_API_Catcher/tree/main
+Gitee：https://gitee.com/LANqed/Setu_API_Catcher
 
 本项目有Pyinstaller打包的版本，若无Python可直接运行
 
-Python文件需要requests库支持，若无可用`pip install requests`安装
+此项目Python文件需要requests库支持，若无可用`pip install requests`安装
+
+推荐使用Python 3.10.8
 
 ## 目標
 
