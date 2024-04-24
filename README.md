@@ -13,7 +13,7 @@
 ----
 参考了csdn的woodwhale大佬，文章地址：https://blog.csdn.net/woodwhale/article/details/117735740
 
-请勿滥用，以免对服务器伤害(ノへ￣、)
+本项目仅供学习，请勿滥用
 
 谢谢♪(^∇^*)
 
