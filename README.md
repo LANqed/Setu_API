@@ -12,7 +12,7 @@
 
 ---
 
-第一次寫代码，写的不好，请见谅(≡ω≡)
+第一次写代码，写的不好，请见谅(≡ω≡)
 
 参考了csdn的woodwhale大佬，文章地址：https://blog.csdn.net/woodwhale/article/details/117735740
 
@@ -31,12 +31,6 @@ Gitee：https://gitee.com/LANqed/Setu_API_Catcher
 此项目Python文件需要requests库支持，若无可用`pip install requests`安装
 
 推荐使用Python 3.10.8
-
-## 目標
-
-* 完成錯誤文件(Size:58B)重下(已完成)
-
-* GUI支持
 
 ## Bugs
 
