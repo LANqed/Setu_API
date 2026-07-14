@@ -8,6 +8,7 @@
 </b>
 
 基于Lolicon.app API的一个Python爬虫程序
+也是我第一个Python程序(
 </div>
 
 ---
